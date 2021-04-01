@@ -1,0 +1,26 @@
+{
+  "name": "node_blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain made with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenorGrande/node_blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SenorGrande/node_blockchain/issues"
+  },
+  "homepage": "https://github.com/SenorGrande/node_blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "typescript": "^4.2.3"
+  }
+}
